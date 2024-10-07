@@ -7,7 +7,7 @@ const About = () => {
         Sou Leonardo, um estudante de Engenharia de Software, e você encontrará alguns projetos que desenvolvi ao longo da minha jornada.
       </p>
       <a 
-        href="/Leonardo Munhoz att.pdf" 
+        href="/src/LeonardoMunhozatt.pdf" 
         target="_blank" 
         rel="noopener noreferrer" 
         className="mt-4 inline-block bg-gray-800 border border-white text-white py-2 px-4 rounded hover:bg-gray-700"
